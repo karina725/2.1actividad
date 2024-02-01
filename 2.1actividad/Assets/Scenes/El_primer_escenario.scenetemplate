@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: El_primer_escenario
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: 9f71a4f34dfb75740b23cf9cafa158d6, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 2800000, guid: 3028dc075ba8c584d9bc7d1e0255e038, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2800000, guid: 2c87ef0092d764a47a6fbc56c2e2708e, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: f6a7795d6730c3b40a136c387c7add75, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 8515c23ec43ea8c4c8ef2a73d0323672, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: fce2d04cc6cbc1449a21ab233f0f3a03, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: -944628639613478452, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2800000, guid: 390e7f8f6a422ad4295c0fb6474948a7, type: 3}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  badge: {fileID: 0}
+  addToDefaults: 0
